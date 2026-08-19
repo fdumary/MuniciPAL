@@ -74,7 +74,7 @@ data/raw/*.pdf --> src/ingestion.py --> data/manifest.csv
     [x] Vectorization: ChromaDB indexing with all-MiniLM-L6-v2 embeddings.
     [x] Retrieval: Top-k semantic search grounding all LLM outputs.
     [x] Backend API: FastAPI endpoints for query, generation, and document management.
-    [ ] Frontend: Connect the Next.js interface to the API (In progress).
+    [x] Frontend: Connect the Next.js interface to the API.
 
 ## Data Inventory
 The system consumes documents from the City of Delray Beach. Our pipeline processes 68+ ordinances and policies stored in `data/raw/`.
