@@ -1,4 +1,4 @@
-# MuniciPAL-CAP6951-Team13
+# MuniciPAL
 *AI-Powered Policy and Ordinance Assistant*
 
 ## Project Overview
